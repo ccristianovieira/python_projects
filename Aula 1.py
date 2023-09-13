@@ -1,7 +1,7 @@
 'BASICS (USAR SPYDER QUE FUNCIONA INPUT)'
 
 #Tipos de variáveis type()
-
+ALGO = 'ALGUMACOISA'
 x = 1
 y = 1.32
 m = 'Boa tarde'
